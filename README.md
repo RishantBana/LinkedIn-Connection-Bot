@@ -4,17 +4,6 @@ Automate LinkedIn connection requests using Selenium! This bot handles the login
 
 ---
 
-## 📋 Table of Contents
-
-- [Features](#Features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Disclaimer](#disclaimer)
-
----
-
 ## ✨ Features
 
 - **Automated Login**: Secure login handling.
